@@ -1,0 +1,36 @@
+# Environment variables (contains sensitive credentials)
+.env
+
+# Python virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Output files (may contain sensitive data)
+*.xlsx
+*.csv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary Excel files
+~$*.xlsx
+
+# Claude Code
+CLAUDE.md
