@@ -32,5 +32,10 @@ Thumbs.db
 # Temporary Excel files
 ~$*.xlsx
 
+# Build artifacts (PyInstaller)
+build/dist/
+build/build/
+*.spec.bak
+
 # Claude Code
 CLAUDE.md
