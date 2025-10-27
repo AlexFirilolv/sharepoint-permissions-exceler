@@ -3,3 +3,5 @@ pandas
 python-dotenv
 requests
 msal
+PyQt6
+pyinstaller
